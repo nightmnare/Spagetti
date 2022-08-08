@@ -15,6 +15,9 @@ header,
 .text-orange {
   color: orange;
 }
+.hero-intro-bg {
+  background-color: #4f1066;
+}
 body {
   overflow-x: hidden;
   background: #4f1066;

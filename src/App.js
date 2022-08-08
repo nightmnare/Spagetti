@@ -93,7 +93,7 @@ const App = () => {
                     data-aos="fade-up"
                   >
                     <h1 className="text-warning">ScarySwap</h1>
-                    <h5 className="mt-2 text-orange t-bold">
+                    <h5 className="mt-2 text-orange t-bold hero-intro-bg">
                       First ever zero swapping fees DEX on the fantom chain
                     </h5>
                     <div className="container-button">
