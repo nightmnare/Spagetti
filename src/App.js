@@ -60,7 +60,7 @@ const App = () => {
                     <li className="nav-item">
                       <a
                         className="btn btn-warning rounded-pill"
-                        href="/"
+                        href="https://app.scaryswap.com"
                         target="_blank"
                         id="button"
                       >
@@ -97,7 +97,7 @@ const App = () => {
                       First ever zero swapping fees DEX on the fantom chain
                     </h5>
                     <div className="container-button">
-                      <a className="btn btn-danger rounded-pill" href="/">
+                      <a className="btn btn-danger rounded-pill" href="https://app.scaryswap.com">
                         DApp
                       </a>
                       <a className="btn btn-danger rounded-pill" href="/">
@@ -209,15 +209,15 @@ const App = () => {
                     <h1>Downloads</h1>
                     <ul className="list-unstyled mt-4 d-flex flex-column flex-md-row">
                       <li className="d-flex align-items-center flex-column flex-md-row">
-                        <a href="/#">
+                        <a href="https://discord.com/invite/pumpkins">
                           <i className="fab fa-discord fa-lg mr-2"></i>
                           Discord
                         </a>
                       </li>
                       <li className="d-flex align-items-center flex-column flex-md-row">
-                        <a href="/#">
-                          <i className="fab fa-github fa-lg mr-2"></i>
-                          Github
+                        <a href="docs.scaryswap.com">
+                            <img alt="gitbook icon" src="/svg/gitbook.svg" className="fab fa-gitbook fa-lg mr-2" />
+                            GitBook
                         </a>
                       </li>
                       <li className="d-flex align-items-center flex-column flex-md-row">
@@ -282,13 +282,13 @@ const App = () => {
                   <h5 className="font-weight-bold">Downloads</h5>
                   <ul className="list-unstyled text-small">
                     <li>
-                      <a className="text-muted" href="/#">
+                      <a className="text-muted" href="https://discord.com/invite/pumpkins">
                         Discord
                       </a>
                     </li>
                     <li>
-                      <a className="text-muted" href="/#">
-                        Github
+                      <a className="text-muted" href="https://docs.scaryswap.com">
+                        GitBook
                       </a>
                     </li>
                     <li>

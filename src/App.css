@@ -220,6 +220,8 @@ main #download ul li {
 }
 main #download ul li a {
   color: white;
+  display: flex;
+  align-items: center;
 }
 .logo {
   display: block;
