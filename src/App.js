@@ -100,7 +100,7 @@ const App = () => {
                       <a className="btn btn-danger rounded-pill" href="https://app.scaryswap.com">
                         DApp
                       </a>
-                      <a className="btn btn-danger rounded-pill" href="/">
+                      <a className="btn btn-danger rounded-pill" href="https://docs.scaryswap.com">
                         Docs
                       </a>
                     </div>
@@ -215,6 +215,12 @@ const App = () => {
                         </a>
                       </li>
                       <li className="d-flex align-items-center flex-column flex-md-row">
+                        <a href="https://twitter.com/Scary_swap">
+                          <i className="fab fa-twitter fa-lg mr-2"></i>
+                          Twitter
+                        </a>
+                      </li>
+                      <li className="d-flex align-items-center flex-column flex-md-row">
                         <a href="docs.scaryswap.com">
                             <img alt="gitbook icon" src="/svg/gitbook.svg" className="fab fa-gitbook fa-lg mr-2" />
                             GitBook
@@ -284,6 +290,11 @@ const App = () => {
                     <li>
                       <a className="text-muted" href="https://discord.com/invite/pumpkins">
                         Discord
+                      </a>
+                    </li>
+                    <li>
+                      <a className="text-muted" href="https://twitter.com/Scary_swap">
+                        Twitter
                       </a>
                     </li>
                     <li>
