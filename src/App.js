@@ -58,10 +58,8 @@ const App = () => {
                       </a>
                     </li>
                     <li className="nav-item">
-                      <a
-                        className="btn btn-warning rounded-pill"
+                      <a className="btn btn-warning rounded-pill"
                         href="https://app.scaryswap.com"
-                        target="_blank"
                         id="button"
                       >
                         DApp
@@ -194,7 +192,7 @@ const App = () => {
                       <li>WBNB / USDC</li>
                       <li>WETH / USDC</li>
                     </ul>
-                    <a className="btn rounded-pill" href="/">
+                    <a className="btn rounded-pill" href="mailto:jb.mouny@yahoo.com">
                       contact us to list your 0% fees pair
                     </a>
                   </div>
@@ -206,7 +204,7 @@ const App = () => {
               <div className="container" data-aos="fade-up">
                 <div className="row">
                   <div className="col-12 mb-4">
-                    <h1>Downloads</h1>
+                    <h1>BOOOO!!!</h1>
                     <ul className="list-unstyled mt-4 d-flex flex-column flex-md-row">
                       <li className="d-flex align-items-center flex-column flex-md-row">
                         <a href="https://discord.com/invite/pumpkins">
@@ -221,7 +219,7 @@ const App = () => {
                         </a>
                       </li>
                       <li className="d-flex align-items-center flex-column flex-md-row">
-                        <a href="docs.scaryswap.com">
+                        <a href="https://docs.scaryswap.com">
                             <img alt="gitbook icon" src="/svg/gitbook.svg" className="fab fa-gitbook fa-lg mr-2" />
                             GitBook
                         </a>
@@ -285,7 +283,7 @@ const App = () => {
                   </ul>
                 </div>
                 <div className="col-6 col-md-3">
-                  <h5 className="font-weight-bold">Downloads</h5>
+                  <h5 className="font-weight-bold">BOOOO!!!</h5>
                   <ul className="list-unstyled text-small">
                     <li>
                       <a className="text-muted" href="https://discord.com/invite/pumpkins">
