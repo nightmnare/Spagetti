@@ -6,6 +6,7 @@ const App = () => {
   const [isLoading, setIsLoading] = useState(true);
   Aos.init();
   useEffect(() => {
+    setIsLoading(true);
     window.addEventListener("load", () => setIsLoading(false));
     return () => window.removeEventListener("load", () => setIsLoading(false));
   }, []);
