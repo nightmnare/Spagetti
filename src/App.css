@@ -309,4 +309,7 @@ html:not(.mobile-true) .webkit-show {
   .sp {
     display: block !important;
   }
+  .loader-wrapper img {
+    width: 100%;
+  }
 }
