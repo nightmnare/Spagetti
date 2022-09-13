@@ -252,6 +252,9 @@ footer.page-footer a {
 .webkit-show {
   width: 100%;
 }
+.fa-audit {
+  max-width: 32px;
+}
 /* fix a bug that all of image is not showing on iphone */
 html:not(.mobile-true) .navbar-brand img,
 html:not(.mobile-true) footer .logo,

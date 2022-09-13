@@ -226,8 +226,9 @@ const App = () => {
                         </a>
                       </li>
                       <li className="d-flex align-items-center flex-column flex-md-row">
-                        <a href="/#">
-                          <i className="fas fa-file fa-lg mr-2"></i> Audit Paper
+                        <a href="https://solidity.finance/audits/ScarySwap/">
+                          <img alt="Audit icon" src="/img/audit_paper.png" className="fab fa-audit fa-lg mr-2" />
+                          Audit Paper
                         </a>
                       </li>
                     </ul>
@@ -260,7 +261,7 @@ const App = () => {
                     </i>
                   </a>
                   <small className="d-block mb-3 text-muted">
-                    © 2022 – Spagetti
+                    2022 – ScarySwap
                   </small>
                 </div>
                 <div className="col-6 col-md-3">
